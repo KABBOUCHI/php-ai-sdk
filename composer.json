@@ -1,0 +1,16 @@
+{
+    "name": "ai-sdk/ai",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AiSdk\\Ai\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Georges KABBOUCHI",
+            "email": "georges.kabbouchi@gmail.com"
+        }
+    ],
+    "require": {}
+}
